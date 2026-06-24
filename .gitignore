@@ -1,0 +1,30 @@
+# --- Internal working notes (NOT for public repo) ---
+project-instructions.md
+engagement-brief.md
+notes/
+*.private.md
+
+# --- SQL Server / SSMS ---
+*.bak
+*.trn
+*.mdf
+*.ldf
+*.ndf
+*.ssmssln
+*.ssmssqlproj
+*.user
+
+# --- Data dumps (the 50 GB Stack Overflow database is never committed) ---
+*.7z
+*.zip
+*.tar
+*.gz
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
