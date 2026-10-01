@@ -1,5 +1,11 @@
 # SQL Server Performance Optimization — Case Studies
 
+I'm Dmytro, a SQL Server developer with 4+ years in production. I find and fix slow queries — with measurable proof.
+
+Need help with a slow database? DM me on X [@DmytroSQL](https://x.com/DmytroSQL).
+
+Hands-on query tuning on a **50 GB SQL Server database**, documented end to end: **problem → diagnosis → fix → measured result.**
+
 Hands-on query tuning on a **50 GB SQL Server database**, documented end to end:
 **problem → diagnosis → fix → measured result.**
 
